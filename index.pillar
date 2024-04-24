@@ -1,0 +1,98 @@
+{{{
+<div class="row">
+<div class="col-8">}}}
+
+! Welcome to ESUG
+
+The European Smalltalk User Group (ESUG) is a non-profit user organization that supports all kinds of initiatives around the Smalltalk programming language. ESUG is supporting especially free-open source actions that benefit the whole Smalltalk community. For example ESUG does:
+
+- Link all users of the Smalltalk programming language and environments in Europe, individual and corporate
+- Promote the use of Smalltalk and lectures
+- Promote books
+- Support local users groups and establish new ones
+- Support students and researchers to meet and collaborate
+- Organize a yearly conference and sponsor other Smalltalk conferences
+- Check our sponsoring actions (visit lab, books, summer schools, user groups)
+
+!! ESUG 2024 @ Lille France
+
+Check the *Call for Presentations > 2024-Conference/Call2024.pillar*
+
+||{ *The international ESUG 24 Conference > 2024-Conference/conf2024.pillar* will be held in Lille (France) from 8 to 11 of July 2024. {{{html: <br \><br \><ul><li>}}} About the *city of Lille>2024-Conference/city2024.pillar* {{{html: <br /><li>}}} Student volunteer *info>2024-Conference/callForStudents2024.pillar* {{{html: <br /><li>}}} *Registration is open>https://registration.esug.org* {{{html: <br /><li>}}} *International Workshop on Smalltalk Technologies Program>https://esug.github.io/2024-Conference/IWST2024.html* {{{html: <br /><li>}}} It will be a great conference! Check the *Conference Program>https://esug.github.io/2024-Conference/agenda/agenda.html* {{{html: </ul>}}} || +Lille Vue Grand Place>file://2024-Conference/images/512/Lille_vue_gd_place_small.png+ Lille view of Grand Place ||
+
+!! Past Events
+
+!!!! ESUG 2023
+ESUG 2023 Lyon, France from 26 August. - 1 Sept 2023.
+- *ESUG 23 > 2023-Conference/conf2023.pillar* - Check the *program>https://esug.github.io/2023-Conference/agenda/agenda.html*.
+- *International workshop on Smalltalk Technologies (IWST 2023) > 2023-Conference/conf2023.pillar*.
+- Slides in the *ESUG Archive>http://esug.org/data/ESUG2023/*
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
+
+!!!! ESUG 2022
+
+ESUG 2022 Novi Sad, Serbia from 22. - 26.8.2022.
+- *ESUG 22 > 2022-Conference/conf2022.pillar* - Check the *program>https://esug.github.io/2022-Conference/agenda/agenda.html*.
+- *International workshop on Smalltalk Technologies (IWST 2022) > 2022-Conference/conf2022.pillar*.
+- *Innovation Technology Awards - 17th Edition>2022-Conference/awardsSubmissions.pillar*
+- Videos on Youtube
+-- *Main Conference>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi_7LGwiSa-8VwYXELwFQLBt*
+-- *Show us your Project>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi-QLQViXAR41B0KdsSb4-nq*
+- IWST Proceedings at *https://ceur-ws.org/Vol-3325/*
+
+
+!!!! ESUG19: Videos and Slides
+
+The Slides and Videos for ESUG19 are finally online:
+
+- Slides in the *ESUG Archive>http://esug.org/data/ESUG2019/*
+- Slides on *Slideshare>https://www.slideshare.net/esug/presentations*
+
+
+- Playlist *on Youtube>https://www.youtube.com/playlist?list=PLJ5nSnWzQXi8DPNpy1jCkjE4yE0WUtDP2*
+
+
+
+{{{</div><br/><br/><br/>}}}
+
+
+{{{
+<div class="col-4 boxes">
+}}}*Support ESUG actions! Become a Sponsor!>become_sponsor.pillar*
+{{{<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="esug-info@esug.org">
+<input type="hidden" name="item_name" value="Donation to Support ESUG">
+<input type="hidden" name="item_number" value="Donation to Support ESUG">
+<input type="hidden" name="cn" value="Comments">
+<input type="hidden" name="currency_code" value="EUR">
+<input type="hidden" name="tax" value="0">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+</form>
+<br>
+}}}
+
+{{{
+<b>Platinum Sponsors</b><br>
+<a href="http://gemtalksystems.com"><img src="images/sponsors/sponsor-gemtalksystems.png"  width="300" class="img-responsive" /></a><br>
+<a href="http://www.instantiations.com"><img src="images/sponsors/sponsor-instantiations.png"  width="320" class="img-responsive" /></a><br>
+<a href="http://www.feenk.com"><img src="images/sponsors/sponsor-feenk.png"  height="80" class="img-responsive" /></a><br>
+
+<b>Golden Sponsors</b><br>
+
+<a href="https://www.adesso.de"><img src="images/sponsors/sponsor-01.png" width="280" class="img-responsive"> </a>
+<a href="http://www.ohra.nl"><img src="images/sponsors/sponsor-ohra.png" alt="sponsor-ohra.png" width="240" class="img-responsive"/></a><br/>
+
+<br>
+
+<b>Silver Sponsors</b><br/>
+
+<a href="https://www.lifeware.ch/"><img src="images/sponsors/sponsor-lifeware.png"  width="300" /></a><br>
+<a href="https://www.johnmcintosh.pro/"><img src="images/sponsors/sponsor-SmalltalkConsulting.png"  width="180" /></a><br>
+
+<br/>
+
+</div>
+</div>
+}}}
