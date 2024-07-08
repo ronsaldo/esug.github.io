@@ -1,134 +1,111 @@
-<!agenda|title=ESUG 2023
+<!agenda|title=ESUG 2024
+<!day|start=2024 July 8th
 
-<!day|start=2023 August 28th
+<!segment|start=09:00
+<!talk|subject=Welcome&author=S. Ducasse&length=15&room=Amphi!>
+<!talk|subject=Strengthening our community&author=G. Rakic&length=15&room=Amphi!>
+<!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!segment|start=9:30
+<!talk|subject=Mutalk, Who watches the tests?&author=G. Polito&length=30&room=Amphi!>
+<!talk|subject=Virtual Reality in Pharo using WODEN Engine: Challenges and Demo&author=R. Salgado&length=30&room=Amphi!>
+<!talk|subject=How to get more people onboard with Pharo ? Applying LLM as support for the onboarding of new developers&author=P. Zaragoza, M. Pingaud&length=30&room=Amphi!>
+<!talk|subject=Phausto : the sound within Pharo&author=D. Cipriani&length=30&room=Amphi!>
 
-<!break|subject=Welcome&length=30&room=Amphi A1!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
-<!talk|subject=PharoJS'23&length=30&author=N. BOURAQADI and D. MASON&room=Amphi A1!>
-<!talk|subject=The Pharo Debugger and Debugging Tools: Advances and Roadmap&length=30&author=S. COSTIOU&room=Amphi A1!>
-<!talk|subject=Music With Pharo&length=30&author=D. CIPRIANI&room=Amphi A1!>
+<!talk|subject=Gemtalk roadmap&author=N. Green, J. Foster&length=30&room=Amphi!>
+<!talk|subject=Moldable Debugging&author=A. Chis&length=30&room=Amphi!>
+<!talk|subject=Debug Points&author=S. Costiou&length=30&room=Amphi!>
 
-<!talk|subject=Phuzzing: a Pharo toolkit for automatic fuzz testing&length=30&author=G. POLITO&room=Amphi A1!>
+<!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=120&room=Amphi A1!>
+<!talk|subject=Toplo&author=P. Tesone&length=30&room=Amphi!>
+<!talk|subject=Building a GTK app with Spec&author=E. Lorenzano, C. Demarey&length=30&room=Amphi!>
+<!talk|subject=Webside&author=G. Amaral&length=30&room=Amphi!>
 
-<!talk|subject=Memory Profiler&length=30&author=S. JORDAN MONTANO&room=Amphi A1!>
+<!break|subject=Award Competition&length=200&room=Amphi!>
 
-<!talk|subject=WebGS: Building a Backend for Modern Web Applications&length=30&author=J. FOSTER&room=Amphi A1!>
-<!talk|subject=Agile Dials, a tool for project management&length=30&author=G. BITTAR&room=Amphi A1!>
-
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
-
-<!talk|subject=Teaching Moldable Development&length=30&author=O. NIERSTRASZ&room=Amphi A1!>
-<!talk|subject=Agile Artificial Intelligence&length=30&author=A. BERGEL&room=Amphi A1!>
-<!talk|subject=PolyMath / Pharo-AI / DataFrame &length=30&author=O. ZAYTSEV, S. JORDAN-MONTANO, C. FERLICOT-DELBECQUE&room=Amphi A1!>
-
-
-
-<!break|subject=Award Competition&length=120&room=Amphi A1!>
 !>
 !>
+<!day|start=2024 July 9th
 
+<!segment|start=09:15
+<!talk|subject=Pharo 12&author=S. Ducasse&length=45&room=Amphi!>
 
-%Tuesday
-<!day|start=2023 August 29th
+<!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!segment|start=9:15
-<!talk|subject=Pharo News: 11 and more&length=45&author=S. DUCASSE&room=Amphi A1!>
+<!talk|subject=Unicode String Implementations - An Overview&author=H. Johansen&length=30&room=Amphi!>
+<!talk|subject=Building Full-Stack Unicode Applications with VAST&author=E. Maringolo&length=30&room=Amphi!>
+<!talk|subject=Cormas and Companion modelling and serious games&author=O. Zaitsev, P. Bommel&length=30&room=Amphi!>
 
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
-<!talk|subject=Native desktop modern applications&length=30&author=P. LABORDE&room=Amphi A1!>
-<!talk|subject=Application in Pharo&length=30&author=P. TESONE&room=Amphi A1!>
-<!talk|subject=PDM command line reinvented&length=30&author=R. UTTNER&room=Amphi A1!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
+<!talk|subject=Glamorous Toolkit&author=A. Chiș&length=30&room=Amphi!>
+<!talk|subject=Manage your Pharo images from command line&author=C. Demarey&length=30&room=Amphi!>
+<!talk|subject=Asynchronous Programming with Async and Await&author=J. Foster&length=30&room=Amphi!>
 
+<!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=120&room=Amphi A1!>
+<!talk|subject=Notebooks&author=M. Nocentini&length=30&room=Amphi!>
+<!talk|subject=Pyramid: a User Interface Editor for Bloc&author=Y. Le Goff&length=30&room=Amphi!>
+<!talk|subject=Runtime type collection and its usage in code transpiling&author=P. Krivanek&length=30&room=Amphi!>
 
-<!talk|subject=Seaside Hotwired&length=30&author=J. BRICHAU&room=Amphi A1!>
-<!talk|subject=Building Hybrid Applications with VAST and WebView2&length=30&author=M MARTINEZ-PECK&room=Amphi A1!>
-<!talk|subject=Agent-based Modelling in Pharo using Cormas&length=30&author=O. ZAYTSEV&room=Amphi A1!>
+<!break|subject=Show us your projects&length=60&room=Amphi!>
 
-
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
-
-<!talk|subject=Code instrumentation and the pitfalls of abstraction&length=30&author=G. POLITO and P. TESONE&room=Amphi A1!>
-<!talk|subject=Building a reflexive code-coverage tool&length=30&author=N. PAPAGNA&room=Amphi A1!>
-<!talk|subject=Glamourous Toolkit V1.0&length=30&author=A. CHIS&room=Amphi A1!>
-
-<!break|subject=Show us your projects&length=60&room=Amphi A1!>
 !>
 !>
+<!day|start=2024 July 10th
 
-%Wednesday
-<!day|start=2023 August 30th
+<!segment|start=09:15
+<!talk|subject=Instantiations Company Update & VAST 2025 Preview&author=S. Berman&length=45&room=Amphi!>
 
-<!segment|start=9:15
-<!talk|subject=Gemtalk Update&length=45&author=N. GREEN&room=Amphi A1!>
+<!break|subject=Break&length=30&room=Amphi!>
 
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
+<!talk|subject=How easy is to write a JIT compiler?&author=G. Polito&length=30&room=Amphi!>
+<!talk|subject=Bridging the Gap: Streamlining Pharo FFI Bindings&author=E. Lorenzano&length=30&room=Amphi!>
+<!talk|subject=Code Paradise&author=E. Stel&length=30&room=Amphi!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
-<!talk|subject=Soil - a fresh look on OO databases&length=30&author=N. HARTL and M. DENKER&room=Amphi A1!>
-<!talk|subject=Opal compiler and Block&length=30&author=M. DENKER&room=Amphi A1!>
-<!talk|subject=Grafoscopio: Civic tech and how we change the tools that change us&length=30&author=O. LUNA&room=Amphi A1!>
+<!talk|subject=Beagle Smalltalk&author=D. Buck&length=30&room=Amphi!>
+<!talk|subject=gt4gemstone&author=A. Chiș&length=30&room=Amphi!>
+<!talk|subject=The Pharo Debugger and Debugging Tools: Advances and Roadmap&author=S. Costiou&length=30&room=Amphi!>
 
-<!break|subject=Lunch&length=120&room=Amphi A1!>
+<!break|subject=Coffee Break&length=30&room=Amphi!>
 
-<!talk|subject=Workshop on Concept Inventories&length=120&author=C. FUHRMAN and S. DUCASSE&room=Amphi A1!>
+<!talk|subject=A tale about scale&author=N. Hartl&length=30&room=Amphi!>
+<!talk|subject=WebST: Web Components with PharoJS&author=N. Bouraqadi&length=30&room=Amphi!>
+<!talk|subject=Detecting and preventing Pharo vulnerabilities&author=I. Sayar, S. Costiou&length=30&room=Amphi!>
+<!talk|subject=Live Music Concert of DJ Lucretio&author=DJ Lucretio&length=60&room=Amphi!>
+<!talk|subject=going to social event&length=30&room=Walking happily!>
+<!break|subject=Social Event&length=300&room=ChaudBouillon!>
 
-<!talk|subject=Cormas hands-on: object-oriented UI foundations&length=90&author=O. ZAYTSEV&room=Amphi A2!>
-
-<!break|subject=Social Event&length=300&room=Amphi A1!>
 !>
 !>
+<!day|start=2024 July 11th
 
+<!segment|start=09:30
 
-%Thursday
-<!day|start= 2023 August 31st
+<!talk|subject=Community building&author=P. Krief&length=30&room=Amphi!>
 
-<!segment|start=9:15
+<!break|subject=Coffee Break&length=30&room=Amphi!>
+<!talk|subject=Object-Centric Debugging&author=V. Bourcier, S+. Costiou&length=30&room=Amphi!>
+<!talk|subject=gt4python: Moldable Development for Python&author=S. Van Caekenberghe&length=30&room=Amphi!>
 
-<!talk|subject=Instantiations Company Update & VAST 2024 Preview&length=45&author=Greg Schultz&room=Amphi A1!>
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
+<!talk|subject=Community discussion&author=G. Rakic and S. Ducasse&length=30&room=Amphi!>
 
-<!talk|subject= Visual user-driven database queries&length=30&author=N. HARTL&room=Amphi A1!>
-<!talk|subject=Working with GemStone from Glamorous Toolkit&length=30&author=A. GRANT&room=Amphi A1!>
-<!talk|subject=Your questions about Git&length=30&author=G. POLITO&room=Amphi A1!>
+<!break|subject=Lunch&length=120&room=Amphi!>
 
-<!break|subject=Lunch&length=120&room=Amphi A1!>
+<!talk|subject=Getting more from your Pharo IDE&author=C. Ferlicot-Delbecque&length=30&room=Amphi!>
+<!talk|subject=Behind the scenes: The Making of VAST&author=M. Martinez Peck&length=30&room=Amphi!>
+<!talk|subject=Fluid Class Defintions In Pharo 12&author=M. Denker&length=30&room=Amphi!>
 
-<!talk|subject=Google Summer of Code with Pharo&length=30&author=O. ZAITSEV and G. Rakic&room=Amphi A1!>
-<!talk|subject=Documentation&length=30&author=P. KRIVANEK&room=Amphi A1!>
+<!break|subject=Coffee Break&length=30&room=Amphi!>
 
+<!talk|subject=gt4llm: A programmable environment for large language models&author=V. Heller&length=30&room=Amphi!>
+<!talk|subject=Data Storytelling with Pharo & Mapping data commons extinction and blossoming&author=O. Luna&length=30&room=Amphi!>
 
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
-<!talk|subject=News from Bloc&length=30&author=M. DIAS and P. TESONE&room=Amphi A1!>
-%<!talk|subject=Sparkle -- Let's Annoy Users Differently&length=30&author=M McClure&room=Amphi A1!>
-<!talk|subject=Do you know your browser?&length=30&author=K. DE HONDT&room=Amphi A1!>
-<!talk|subject=VASER Control&length=30&author=T. and F. STALZER&room=Amphi A1!>
+<!break|subject=Show us your projects&length=60&room=Amphi!>
 
-
-<!break|subject=Show us your projects&length=60&room=Amphi A1!>
 !>
 !>
-
-
-
-
-<!day|start=2023 Sept 1st 
-
-<!segment|start=9:15
-<!talk|subject=Roassal 30 Updates&length=45&author=M. MAMANI&room=Amphi A1!>
-
-<!break|subject=Coffee Break&length=30&room=Amphi A1!>
-<!talk|subject=gt4atproto: A programmable environment for social media&length=30&author=V. HELLER&room=Amphi A1!>
-<!talk|subject=Bio Smalltalk&length=30&author=H. MORALES&room=Amphi A1!>
-<!talk|subject=New refactoring architecture&length=30&author=B. SARENAC and S. DUCASSE&room=Amphi A1!>
-<!talk|subject=Advanced Object-Oriented Design: a new Mooc&length=30&author=S. DUCASSE and L. FABRESSE&room=Amphi A1!>
-<!break|subject=Lunch&length=120&room=Amphi A1!>
-!>
-!>
-
 !>

@@ -5,24 +5,31 @@
 !ESUG 2024 International Conference
 
 The 30th ESUG conference/summer-school will be held in Lille, France from 8 to 11 of July 2024.
+*The conference program>agenda.pillar* is out!
 
-!!! Conference calls
+!!! Conference Info
 
+- *Concert: Riding the Mooflod>Concert.pillar* 
 - *Call for Presentations>call2024.pillar*
 - *Call for Student Volunteers>callForStudents2024.pillar*
 - Call for IWST 2024 submissions
 --*Call for IWST 2024 Workshop Paper submissions>IWST2024.pillar*
 --*Call for IWST 2024 Previously Published Contribution Presentation submissions>IWST-24-preprints.pillar*
-% - *Innovation award call>awardsCall2024.pillar*
-%- *Camp Smalltalk>camp2024.pillar*
+- Innovation Technology Awards
+--*Submissions & Winners>awardsSubmissions.pillar*
+-- *Call>awardsCall2024.pillar*
+- *Innovation Technology Awards call>awardsCall2024.pillar*
+- *Camp Smalltalk>camp2024.pillar*
 - *Conference Venue and trip information>city2024.pillar*
+
++ESUG 2024 Logo>file://ESUG2024LogoRed.png+
 
 !!! Conference registration
 
 @registration
 
 - *Register here>http://registration.esug.org* and now you can also pay (without extra fees)
-- *HelloAsso>https://www.helloasso.com/associations/esug/evenements/esug-2023*.
+- *HelloAsso>https://www.helloasso.com/associations/esug/evenements/esug-2024*.
 
 Early registration deadline: 15/04/2024
 
@@ -40,12 +47,12 @@ Stay tuned.
 
 
 !!! Conference organization
-!!!! ESUG 2024 organization committee (work in progress)
+!!!! ESUG 2024 organization committee
 - Stéphane Ducasse, Inria Lille
 - Pablo Tesone, Pharo Consortium
 - Marcus Denker, Inria Lille
 - Noury Bouraqadi, IMT
-- Luc Fabresse, IMT
+- Luc Fabresse, IMT Nord Europe
 - Christophe Demarey, Inria Lille
 - Imen Sayar, University of Lille
 - Steven Costiou, Inria Lille
